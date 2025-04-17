@@ -1,8 +1,1 @@
-# hello-world
-我们的实验3
-#include<bits/stdc++.h>
-using namespace std;
-int main()
-{
-  return 0;
-}
+这是高光凡的分支，负责主程序
